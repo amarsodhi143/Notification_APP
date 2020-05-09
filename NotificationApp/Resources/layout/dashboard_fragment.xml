@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login_bk2"
+    android:focusableInTouchMode="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginStart="24dp"
+        android:orientation="vertical">
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:id="@+id/space1" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:id="@+id/title"
+            android:textSize="16dp"
+            android:text="Attendance System"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:id="@+id/userNameDash"
+            android:textSize="16dp"
+            android:text="User:"
+            android:layout_marginTop="@dimen/loginViewsMargin"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/DesignationDash"
+            android:layout_gravity="left"
+            android:textSize="16dp"
+            android:text="Designation:"
+            android:layout_marginTop="@dimen/loginViewsMargin"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:id="@+id/DateDash"
+            android:textSize="16dp"
+            android:layout_marginBottom="10dp"
+            android:text="Date:"
+            android:layout_marginTop="@dimen/loginViewsMargin"/>
+        <GridLayout
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:rowCount="3"
+            android:columnCount="1"
+            android:adjustViewBounds="true">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:minWidth="25px"
+                android:minHeight="25px"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/linCheckIn">
+                <TextView
+                    android:text="Check In"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView1"
+                    android:foreground="#ffffffff"
+                    android:textAlignment="center"
+                    android:padding="10dp"
+                    android:textColor="@android:color/black"
+                    android:gravity="center|center_horizontal"
+                    android:layout_gravity="fill_horizontal"
+                    android:foregroundGravity="center_horizontal" />
+            </LinearLayout>
+            <LinearLayout
+                android:orientation="vertical"
+                android:minWidth="25px"
+                android:minHeight="25px"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/linCheckOut">
+                <TextView
+                    android:text="Check Out"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:id="@+id/textView12"
+                    android:padding="10dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:foreground="#ffffffff"
+                    android:textColor="@android:color/black"
+                    android:gravity="center|center_horizontal"
+                    android:layout_gravity="fill_horizontal"
+                    android:foregroundGravity="center_horizontal" />
+            </LinearLayout>
+        </GridLayout>
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

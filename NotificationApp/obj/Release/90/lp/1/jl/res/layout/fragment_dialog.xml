@@ -1,0 +1,1 @@
+<FrameLayout android:id="@+id/root" android:layout_width="fill_parent" android:layout_height="fill_parent" android:padding="@dimen/activity_horizontal_margin" xmlns:android="http://schemas.android.com/apk/res/android"></FrameLayout>

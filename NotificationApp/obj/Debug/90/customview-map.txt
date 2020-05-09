@@ -1,0 +1,166 @@
+@string/appbar_scrolling_view_behavior;obj\Debug\90\res\layout\content_main.xml
+adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+android.support.constraint.ConstraintLayout;obj\Debug\90\res\layout\dashboard_fragment.xml
+android.support.constraint.ConstraintLayout;obj\Debug\90\res\layout\notification_fragment.xml
+android.support.constraint.ConstraintLayout;obj\Debug\90\res\layout\notification_panel_fragment.xml
+android.support.design.widget.AppBarLayout;obj\Debug\90\res\layout\app_bar_main.xml
+android.support.design.widget.CoordinatorLayout;obj\Debug\90\res\layout\app_bar_main.xml
+android.support.design.widget.FloatingActionButton;obj\Debug\90\res\layout\app_bar_main.xml
+android.support.design.widget.NavigationView;obj\Debug\90\res\layout\activity_main.xml
+android.support.design.widget.TextInputEditText;obj\Debug\90\res\layout\notification_panel_fragment.xml
+android.support.design.widget.TextInputLayout;obj\Debug\90\res\layout\notification_panel_fragment.xml
+android.support.v4.widget.DrawerLayout;obj\Debug\90\res\layout\activity_main.xml
+android.support.v7.widget.Toolbar;obj\Debug\90\res\layout\app_bar_main.xml
+anticipateInterpolator;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\0\jl\res\anim\interpolator_slight_anticipate.xml
+background;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+background;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+Button;obj\Debug\90\res\layout\notification_fragment.xml
+Button;obj\Debug\90\res\layout\notification_panel_fragment.xml
+cache-path;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\51\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+color;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\0\jl\res\values\values.xml
+color;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\1\jl\res\values\values.xml
+color;obj\Debug\90\res\values\colors.xml
+color;obj\Debug\90\res\values\ic_launcher_background.xml
+com.sdsmdg.tastytoast.ConfusingToastView;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\layout\confusing_toast_layout.xml
+com.sdsmdg.tastytoast.DefaultToastView;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\layout\default_toast_layout.xml
+com.sdsmdg.tastytoast.ErrorToastView;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\layout\error_toast_layout.xml
+com.sdsmdg.tastytoast.InfoToastView;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\layout\info_toast_layout.xml
+com.sdsmdg.tastytoast.SuccessToastView;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\layout\success_toast_layout.xml
+com.sdsmdg.tastytoast.WarningToastView;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\layout\warning_toast_layout.xml
+corners;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\1\jl\res\drawable\bg_dialog.xml
+corners;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\drawable\background_toast.xml
+corners;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\drawable\confusing_toast.xml
+corners;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\drawable\default_toast.xml
+corners;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\drawable\error_toast.xml
+corners;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\drawable\info_toast.xml
+corners;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\drawable\success_toast.xml
+corners;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\drawable\warning_toast.xml
+corners;obj\Debug\90\res\drawable\login_button.xml
+dimen;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\0\jl\res\values\values.xml
+dimen;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\1\jl\res\values\values.xml
+dimen;obj\Debug\90\res\values\dimens.xml
+external-cache-path;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\51\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\51\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+foreground;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+FrameLayout;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\1\jl\res\layout\fragment_dialog.xml
+FrameLayout;obj\Debug\90\res\layout\content_main.xml
+gradient;obj\Debug\90\res\drawable\login_button.xml
+gradient;obj\Debug\90\res\drawable\side_nav_bar.xml
+GridLayout;obj\Debug\90\res\layout\dashboard_fragment.xml
+group;obj\Debug\90\res\menu\activity_main_drawer.xml
+ImageView;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\0\jl\res\layout\layout_cookie.xml
+ImageView;obj\Debug\90\res\layout\nav_header_main.xml
+include;obj\Debug\90\res\layout\activity_main.xml
+include;obj\Debug\90\res\layout\app_bar_main.xml
+item;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\1\jl\res\values\values.xml
+item;obj\Debug\90\res\menu\activity_main_drawer.xml
+item;obj\Debug\90\res\menu\menu_main.xml
+item;obj\Debug\90\res\values\drawables.xml
+item;obj\Debug\90\res\values\styles.xml
+item;obj\Debug\90\res\values-v21\styles.xml
+LinearLayout;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\0\jl\res\layout\layout_cookie.xml
+LinearLayout;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\layout\confusing_toast_layout.xml
+LinearLayout;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\layout\default_toast_layout.xml
+LinearLayout;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\layout\error_toast_layout.xml
+LinearLayout;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\layout\info_toast_layout.xml
+LinearLayout;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\layout\success_toast_layout.xml
+LinearLayout;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\layout\warning_toast_layout.xml
+LinearLayout;obj\Debug\90\res\layout\dashboard_fragment.xml
+LinearLayout;obj\Debug\90\res\layout\nav_header_main.xml
+LinearLayout;obj\Debug\90\res\layout\notification_delayed_fragment.xml
+LinearLayout;obj\Debug\90\res\layout\notification_fragment.xml
+LinearLayout;obj\Debug\90\res\layout\notification_list_fragment.xml
+LinearLayout;obj\Debug\90\res\layout\notification_panel_fragment.xml
+menu;obj\Debug\90\res\menu\activity_main_drawer.xml
+menu;obj\Debug\90\res\menu\menu_main.xml
+overshootInterpolator;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\0\jl\res\anim\interpolator_slight_overshoot.xml
+padding;obj\Debug\90\res\drawable\cell_shape.xml
+path;obj\Debug\90\res\drawable\ic_navigate_next_orange_400_36dp.xml
+path;obj\Debug\90\res\drawable-v21\ic_menu_camera.xml
+path;obj\Debug\90\res\drawable-v21\ic_menu_gallery.xml
+path;obj\Debug\90\res\drawable-v21\ic_menu_manage.xml
+path;obj\Debug\90\res\drawable-v21\ic_menu_send.xml
+path;obj\Debug\90\res\drawable-v21\ic_menu_share.xml
+path;obj\Debug\90\res\drawable-v21\ic_menu_slideshow.xml
+paths;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\51\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+RelativeLayout;obj\Debug\90\res\layout\content_main.xml
+resources;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\0\jl\res\values\values.xml
+resources;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\1\jl\res\values\values.xml
+resources;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\values\values.xml
+resources;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\3\jl\res\values\strings.xml
+resources;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\6\jl\res\values\strings.xml
+resources;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\7\jl\res\values\strings.xml
+resources;obj\Debug\90\res\values\colors.xml
+resources;obj\Debug\90\res\values\dimens.xml
+resources;obj\Debug\90\res\values\drawables.xml
+resources;obj\Debug\90\res\values\ic_launcher_background.xml
+resources;obj\Debug\90\res\values\strings.xml
+resources;obj\Debug\90\res\values\styles.xml
+resources;obj\Debug\90\res\values-v21\styles.xml
+set;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\0\jl\res\anim\slide_in_from_bottom.xml
+set;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\0\jl\res\anim\slide_in_from_top.xml
+set;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\0\jl\res\anim\slide_out_to_bottom.xml
+set;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\0\jl\res\anim\slide_out_to_top.xml
+shape;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\1\jl\res\drawable\bg_dialog.xml
+shape;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\drawable\background_toast.xml
+shape;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\drawable\confusing_toast.xml
+shape;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\drawable\default_toast.xml
+shape;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\drawable\error_toast.xml
+shape;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\drawable\info_toast.xml
+shape;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\drawable\success_toast.xml
+shape;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\drawable\warning_toast.xml
+shape;obj\Debug\90\res\drawable\cell_shape.xml
+shape;obj\Debug\90\res\drawable\login_button.xml
+shape;obj\Debug\90\res\drawable\side_nav_bar.xml
+size;obj\Debug\90\res\drawable\login_button.xml
+solid;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\1\jl\res\drawable\bg_dialog.xml
+solid;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\drawable\background_toast.xml
+solid;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\drawable\confusing_toast.xml
+solid;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\drawable\default_toast.xml
+solid;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\drawable\error_toast.xml
+solid;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\drawable\info_toast.xml
+solid;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\drawable\success_toast.xml
+solid;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\drawable\warning_toast.xml
+solid;obj\Debug\90\res\drawable\cell_shape.xml
+Space;obj\Debug\90\res\layout\dashboard_fragment.xml
+Space;obj\Debug\90\res\layout\notification_fragment.xml
+Space;obj\Debug\90\res\layout\notification_panel_fragment.xml
+string;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\0\jl\res\values\values.xml
+string;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\1\jl\res\values\values.xml
+string;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\values\values.xml
+string;obj\Debug\90\res\values\strings.xml
+stroke;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\drawable\background_toast.xml
+stroke;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\drawable\confusing_toast.xml
+stroke;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\drawable\default_toast.xml
+stroke;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\drawable\error_toast.xml
+stroke;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\drawable\info_toast.xml
+stroke;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\drawable\success_toast.xml
+stroke;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\drawable\warning_toast.xml
+stroke;obj\Debug\90\res\drawable\cell_shape.xml
+style;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\1\jl\res\values\values.xml
+style;obj\Debug\90\res\values\styles.xml
+style;obj\Debug\90\res\values-v21\styles.xml
+TextView;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\0\jl\res\layout\layout_cookie.xml
+TextView;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\layout\confusing_toast_layout.xml
+TextView;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\layout\default_toast_layout.xml
+TextView;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\layout\error_toast_layout.xml
+TextView;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\layout\info_toast_layout.xml
+TextView;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\layout\success_toast_layout.xml
+TextView;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\13\jl\res\layout\warning_toast_layout.xml
+TextView;obj\Debug\90\res\layout\dashboard_fragment.xml
+TextView;obj\Debug\90\res\layout\nav_header_main.xml
+TextView;obj\Debug\90\res\layout\notification_fragment.xml
+TextView;obj\Debug\90\res\layout\notification_panel_fragment.xml
+translate;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\0\jl\res\anim\slide_in_from_bottom.xml
+translate;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\0\jl\res\anim\slide_in_from_top.xml
+translate;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\0\jl\res\anim\slide_out_to_bottom.xml
+translate;C:\Users\AMAR ALIVE\source\repos\NotificationApp\NotificationApp\obj\Debug\90\lp\0\jl\res\anim\slide_out_to_top.xml
+vector;obj\Debug\90\res\drawable\ic_navigate_next_orange_400_36dp.xml
+vector;obj\Debug\90\res\drawable-v21\ic_menu_camera.xml
+vector;obj\Debug\90\res\drawable-v21\ic_menu_gallery.xml
+vector;obj\Debug\90\res\drawable-v21\ic_menu_manage.xml
+vector;obj\Debug\90\res\drawable-v21\ic_menu_send.xml
+vector;obj\Debug\90\res\drawable-v21\ic_menu_share.xml
+vector;obj\Debug\90\res\drawable-v21\ic_menu_slideshow.xml
